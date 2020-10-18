@@ -3,7 +3,7 @@ Understand Deep Convolutional Generative Adversarial Networks (DCGANs and GANs).
 Design and train DCGANs using the Keras API in Python.
 
 
-*Steps Involved in this Project*
+#*Steps Involved in this Project*#
 
 
 Project Overview and Import Libraries
